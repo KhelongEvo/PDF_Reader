@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PDF_Reader</string>
+    <string name="calender">Calender</string>
+    <string name="bitmap">Bitmap</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_file">File</string>
+    <string name="nav_search">Search</string>
+
+    <string name="gridView">Grid View</string>
+    <string name="listView">List View</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeFragment">Home Fragment</string>
+    <string name="fileFragment">File Fragment</string>
+    <string name="searchFragment">Search Fragment</string>
 </resources>
