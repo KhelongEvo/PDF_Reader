@@ -4,15 +4,21 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/home_nav"
-        android:icon="@drawable/baseline_home_white_24dp"
-        android:title="@string/nav_home" />
-    <item
-        android:id="@+id/file_nav"
-        android:icon="@drawable/file_icon"
-        android:title="@string/nav_file" />
-    <item
-        android:id="@+id/search_nav"
-        android:icon="@drawable/search_icon"
-        android:title="@string/nav_search" />
+        android:id="@+id/back_btn"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="@string/nav_back"/>
+        <item
+            android:id="@+id/home_nav"
+            android:icon="@drawable/baseline_home_white_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/file_nav"
+            android:icon="@drawable/file_icon"
+            android:title="@string/nav_file" />
+        <item
+            android:id="@+id/search_nav"
+            android:icon="@drawable/search_icon"
+            android:title="@string/nav_search" />
+
+
 </menu>

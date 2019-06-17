@@ -5,6 +5,7 @@
     <string name="nav_home">Home</string>
     <string name="nav_file">File</string>
     <string name="nav_search">Search</string>
+    <string name="nav_back">Back</string>
 
     <string name="gridView">Grid View</string>
     <string name="listView">List View</string>
